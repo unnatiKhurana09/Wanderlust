@@ -1,2 +1,2 @@
 ﻿# Wanderlust
- https://wanderlust-apxj.onrender.com
+ https://wanderlust-apxj.onrender.com/listings
